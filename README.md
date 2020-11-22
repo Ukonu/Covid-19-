@@ -1,3 +1,3 @@
 # Covid-19-
-Tracks daily Coronavirus cases across Nigeria
+Shiny R Dashboard (Tracks daily Coronavirus cases across Nigeria)
 
